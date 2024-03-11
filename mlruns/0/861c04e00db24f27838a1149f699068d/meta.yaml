@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/HP/PycharmProjects/pythonProjectDeepLearning/mlruns/0/861c04e00db24f27838a1149f699068d/artifacts
+deleted_time: 1710157744905
+end_time: 1709735459179
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 861c04e00db24f27838a1149f699068d
+run_name: debonair-auk-9
+run_uuid: 861c04e00db24f27838a1149f699068d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709735457039
+status: 3
+tags: []
+user_id: HP

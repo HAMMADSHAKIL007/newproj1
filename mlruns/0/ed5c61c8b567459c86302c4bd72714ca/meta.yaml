@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/PycharmProjects/pythonProjectDeepLearning/mlruns/0/ed5c61c8b567459c86302c4bd72714ca/artifacts
+end_time: 1710158205161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed5c61c8b567459c86302c4bd72714ca
+run_name: crawling-flea-41
+run_uuid: ed5c61c8b567459c86302c4bd72714ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1710158203345
+status: 3
+tags: []
+user_id: HP

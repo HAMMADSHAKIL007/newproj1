@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/PycharmProjects/pythonProjectDeepLearning/mlruns/0/41ccc9e271d9466ba5df857b32eafc14/artifacts
+end_time: 1709994098934
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41ccc9e271d9466ba5df857b32eafc14
+run_name: invincible-crane-250
+run_uuid: 41ccc9e271d9466ba5df857b32eafc14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709994097066
+status: 3
+tags: []
+user_id: HP

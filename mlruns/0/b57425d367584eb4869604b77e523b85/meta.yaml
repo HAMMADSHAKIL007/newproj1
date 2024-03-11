@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/PycharmProjects/pythonProjectDeepLearning/mlruns/0/b57425d367584eb4869604b77e523b85/artifacts
+end_time: 1709994019101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b57425d367584eb4869604b77e523b85
+run_name: selective-steed-100
+run_uuid: b57425d367584eb4869604b77e523b85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709994017215
+status: 3
+tags: []
+user_id: HP

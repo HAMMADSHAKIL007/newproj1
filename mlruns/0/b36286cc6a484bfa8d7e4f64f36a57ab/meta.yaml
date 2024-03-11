@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/PycharmProjects/pythonProjectDeepLearning/mlruns/0/b36286cc6a484bfa8d7e4f64f36a57ab/artifacts
+end_time: 1709736450744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b36286cc6a484bfa8d7e4f64f36a57ab
+run_name: agreeable-colt-699
+run_uuid: b36286cc6a484bfa8d7e4f64f36a57ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709736448698
+status: 3
+tags: []
+user_id: HP

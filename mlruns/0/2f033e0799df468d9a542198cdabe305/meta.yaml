@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/PycharmProjects/pythonProjectDeepLearning/mlruns/0/2f033e0799df468d9a542198cdabe305/artifacts
+end_time: 1709735860811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f033e0799df468d9a542198cdabe305
+run_name: loud-duck-989
+run_uuid: 2f033e0799df468d9a542198cdabe305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709735858819
+status: 3
+tags: []
+user_id: HP
